@@ -11,7 +11,7 @@ namespace App\Scrapers\ArticleListScrapers;
  */
 
 
-Class AnnaharArticleListScraper extends ArticleListScraper {
+Class AnnaharArticleListScraper extends _ArticleListScraper {
 	
 
 	public function getList(){

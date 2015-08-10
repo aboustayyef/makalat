@@ -11,7 +11,7 @@ use Symfony\Component\DomCrawler\Crawler;
  * 	
  */
 
-Abstract Class ArticleListScraper{
+Abstract Class _ArticleListScraper{
 	
 	protected $crawler;
 	
